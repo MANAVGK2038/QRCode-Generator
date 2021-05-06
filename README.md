@@ -1,12 +1,12 @@
 # QRCode-Generator
 
-A comprehensive QR Code Generator made using Python
+A comprehensive QR Code Generator made using Python3.
 
-Includes option to enter the text of the website for which the QR Code needs to be generated 
+Includes option to enter the text of the website for which the QR Code needs to be generated.
 
 Options: Generate QR Code,
          Save QR Code,
-         Clear
+         Clear.
      
 Can use any scanner to scan the code.     
          
